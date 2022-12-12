@@ -1,17 +1,16 @@
-# Nome do meu projeto
+# bank-jsp
 
-Rápida descrição do objetivo de fazer esse projeto
+# Projeto que simula um banco digital
 
-| :placard: Vitrine.Dev |     |
-| -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
-
-<!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
-
-## Detalhes do projeto
-
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+# Tecnologias:
+ - Java 11
+ - Java Server Faces (JSP)
+ - JavaScript
+ - Jquey
+ - PostgreSQL
+ - HTML
+ - CSS
+ 
+ # Preview:
+ 
+ <img src="https://github.com/Alisson7Neres/bank-jsp/blob/master/img/Peek%2016-08-2022%2022-33.gif?raw=true#vitrinedev">
